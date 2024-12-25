@@ -33,7 +33,7 @@ Karnataka:
 ![karnataka](SnapShots/karnataka.jpg)
 
 Andhra Pradesh:
-![Andhra Pradesh](SnapShots/Andhra Pradesh.jpg)
+![Andhra Pradesh](SnapShots/Andhra_Pradesh.jpg)
 
 Kerala:
 ![kerala](SnapShots/kerala.jpg)

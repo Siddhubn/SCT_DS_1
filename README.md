@@ -33,10 +33,10 @@ Karnataka:
 ![karnataka](SnapShots/karnataka.jpg)
 
 Andhra Pradesh:
-![Andhra Pradesh](SnapShots/Andhra_Pradesh.jpg)
+![Andhra Pradesh](SnapShots/Andhra Pradesh.jpg)
 
 Kerala:
-![kerala](Snapshots/kerala.jpg)
+![kerala](SnapShots/kerala.jpg)
 
 ## How to Use
 1. **Download the Files**:

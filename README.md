@@ -2,7 +2,7 @@
 ---
 ## POWERBI:
 A Microsoft Data Visualization Tool which helps to Visualize few to Thousands of records.
-Using which I have tried to analyse the [Dataset](population) which has 35 records keeping fields such as State, Capital, Literacy Rates, Sex Ratio ...
+Using which I have tried to analyse the [Dataset](population.csv) which has 35 records keeping fields such as State, Capital, Literacy Rates, Sex Ratio ...
 The 35 records are specific data based on States and Union Territories Present in **INDIA - Our Motherland** giving us data based on the fields present.
 Using the fields, The data present is being filtered to Visuals such as Graphs, charts and a report which make the dataset more easily understandable.
 
@@ -27,16 +27,16 @@ Using the fields, The data present is being filtered to Visuals such as Graphs, 
 
 ## SnapShots :
 Home Report:
-![home](https://github.com/user-attachments/assets/3cd5a2eb-05f5-4838-9440-dbda82bf8294)
+![home](SnapShots/home.jpg)
 
 Karnataka:
-![karnataka](https://github.com/user-attachments/assets/262b62d3-9012-42b4-af11-a9e48f6f9b31)
+![karnataka](SnapShots/karnataka.jpg)
 
 Andhra Pradesh:
-![Andhra Pradesh](https://github.com/user-attachments/assets/b98a78e1-9ab2-4623-9fbd-3f6423d24e52)
+![Andhra Pradesh](SnapShots/Andhra_Pradesh.jpg)
 
 Kerala:
-![kerala](https://github.com/user-attachments/assets/7e73e02d-651f-48e2-a59f-7daf105abacf)
+![kerala](Snapshots/kerala.jpg)
 
 ## How to Use
 1. **Download the Files**:

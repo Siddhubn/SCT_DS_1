@@ -1,11 +1,12 @@
 # POPULATION DISTRIBUTION OF INDIA : DATASET REPORT USING POWER BI
 ---
 ## POWERBI:
+```
 A Microsoft Data Visualization Tool which helps to Visualize few to Thousands of records.
 Using which I have tried to analyse the [Dataset](population.csv) which has 35 records keeping fields such as State, Capital, Literacy Rates, Sex Ratio ...
 The 35 records are specific data based on States and Union Territories Present in **INDIA - Our Motherland** giving us data based on the fields present.
 Using the fields, The data present is being filtered to Visuals such as Graphs, charts and a report which make the dataset more easily understandable.
-
+```
 ## FIELDS present in the DATASET / DATASET DESCRIPTION:
 |Rank | State	| Capital	| Population | % of Total Population |	Males |	Females	| Sex Ratio	| Literacy Rate (%) |	Rural Population |	Urban Population	Area (km*km) | Density (km * km) | Decadal Growth (%) |
 
